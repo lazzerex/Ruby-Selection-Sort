@@ -49,7 +49,7 @@ def selection_sort(arr)
   elements
 end
 
-# Example usage
+# tests
 puts "Example 1:"
 arr = [64, 34, 25, 12, 22, 11, 90]
 puts "Original array with indices:"
